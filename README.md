@@ -10,11 +10,11 @@
 ---
 
 ## 📌 **스터디 관련 Wiki 문서**
-- [📂 경력 기술 허브](https://github.com/your-repo-name/wiki/경력-기술-허브)  
+- [📂 경력 기술 허브](https://github.com/study_space/wiki/경력-기술-허브)  
   _토스 러너스 하이에 제출한 이력서 및 경력 기술서를 공유하는 공간입니다._
-- [🎯 학습 목표 추적기](https://github.com/your-repo-name/wiki/학습-목표-추적기)  
+- [🎯 학습 목표 추적기](https://github.com/study_space/wiki/학습-목표-추적기)  
   _목표를 설정하고, 마감일까지 집중해서 학습합시다._
-- [📖 학습 기록 허브](https://github.com/your-repo-name/wiki/학습-기록-허브)  
+- [📖 학습 기록 허브](https://github.com/study_space/wiki/학습-기록-허브)  
   _스터디 중 배운 내용을 기록하고 복습할 수 있는 공간입니다._  
   _개인 깃허브 및 블로그 링크를 걸어도 무관합니다._
 
