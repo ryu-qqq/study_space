@@ -60,16 +60,14 @@
 
 ## 📌 **스터디 관련 Wiki 문서**
 📌 📖 **스터디 자료와 면접 질문은 Wiki에서 확인할 수 있습니다!**
-- [📂 경력 기술 허브](https://github.com/your-repo-name/wiki/경력-기술-허브)
-- [🎯 학습 목표 추적기](https://github.com/your-repo-name/wiki/학습-목표-추적기)
-- [📖 학습 기록 허브](https://github.com/your-repo-name/wiki/학습-기록-허브)
+- 추가예정..
 
 ---
 
 ## ✅ **스터디 참여 방법**
 1. **콜라보레이터 추가 후, 저장소 Clone**
    ```bash
-   git clone https://github.com/your-repo-name/study-space.git
+   git clone https://github.com/ryu-qqq/study-space.git
    cd study-space
    ```
 2. **스터디/경력 기술서 브랜치 생성 후 작업**
