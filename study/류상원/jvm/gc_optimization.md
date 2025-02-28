@@ -1,0 +1,12 @@
+
+
+해당 내용은 
+jvm 밑바닥까지 파헤치기 책을 읽고 정리한 내용입니다.
+모든 내용은 공부를 하고 이해한 상태에서 아무것도 보지 않은 상태로 직접 누군가 들었을때 이해하기 쉽게 설명하기 위함입니다.
+
+다소 껄그럽지 못하더라도 양해바랍니다.
+
+- 정리 내용 원본
+https://github.com/ryu-qqq/java-virtual-machine/blob/main/src/main/java/com/ryuqq/chapter3/JVM_GC_OPTIMIZATION.md
+
+
