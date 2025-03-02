@@ -7,6 +7,6 @@ jvm 밑바닥까지 파헤치기 책을 읽고 정리한 내용입니다.
 다소 껄그럽지 못하더라도 양해바랍니다.
 
 - 정리 내용 원본
-https://github.com/ryu-qqq/java-virtual-machine/blob/main/src/main/java/com/ryuqq/chapter3/JVM_GC_OPTIMIZATION.md
+- https://github.com/ryu-qqq/java-virtual-machine
 
 
